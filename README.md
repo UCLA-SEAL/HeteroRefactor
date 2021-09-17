@@ -33,5 +33,5 @@ series = {ICSE '20}
 [DOI Link](https://dl.acm.org/doi/10.1145/3377811.3380340)
 
 ## Video
-You can watch a ICSE'20 presentation video [here](https://www.youtube.com/watch?v=FCLYIpPHHls)
+You can watch an ICSE'20 presentation video [here](https://www.youtube.com/watch?v=FCLYIpPHHls)
  
