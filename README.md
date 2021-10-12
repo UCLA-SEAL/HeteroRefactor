@@ -8,8 +8,21 @@ We propose a new dynamic invariant analysis and automated refactoring technique,
 On average, for a recursive program of size 175 LOC, an expert FPGA programmer would need to write 185 more LOC to implement an HLS compatible version, while HeteroRefactor automates such transformation. Our results on Xilinx FPGA show that HeteroRefactor minimizes BRAM by 83% and increases frequency by 42% for recursive programs; reduces BRAM by 41% through integer bitwidth reduction; and reduces DSP by 50% through floating-point precision tuning.
 
 ## Team 
-This project is done in collaboration with Professor [Jason Cong](https://vast.cs.ucla.edu/people/faculty/jason-cong)'s group at UCLA. Please visit the [HeteroRefactor project](https://github.com/heterorefactor/heterorefactor).
+This project is done in collaboration between Professor Miryung Kim(http://web.cs.ucla.edu/~miryung)'s group and Professor [Jason Cong](https://vast.cs.ucla.edu/people/faculty/jason-cong)'s group at UCLA. 
 
+[Jason Lau](https://vast.cs.ucla.edu/people/student/jason-lau): PhD student;  lau@cs.ucla.edu
+
+[Aishwarya Sivaraman](https://scholar.google.com/citations?user=PXKLONAAAAAJ&hl=en): PhD student; dcssiva@cs.ucla.edu
+
+[Qian Zhang](http://web.cs.ucla.edu/~zhangqian/): Postdoctoral researcher, zhangqian@cs.ucla.edu;
+
+[Muhammad Ali Gulzar](https://people.cs.vt.edu/~gulzar/): Assistant Professsor at Virginia Tech, gulzar@cs.vt.edu;
+
+[Jason Cong](https://vast.cs.ucla.edu/people/faculty/jason-cong): Professor at UCLA, cong@cs.ucla.edu
+
+[Miryung Kim](http://web.cs.ucla.edu/~miryung/): Professor at UCLA, miryung@cs.ucla.edu;
+
+First three authors are equal co-authors and they are ordered alphabetically. 
 
 ## How to cite 
 Please refer to our ICSE'20 paper, [Refactoring for Heterogeneous Computing with FPGA](https://web.cs.ucla.edu/~miryung/Publications/icse2020-heterorefactor.pdf) for more details. 
